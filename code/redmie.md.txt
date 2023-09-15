@@ -1,2 +1,4 @@
-mise en place d'un jeu de données
+% mise en place d'un jeu de données
 A=[1,1.....1,1];
+% modification de la donné 
+B=A.A*
