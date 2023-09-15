@@ -1,1 +1,2 @@
-documentation M2
+mise en place d'un jeu de données
+A=[1,1.....1,1];
